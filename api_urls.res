@@ -1,0 +1,16 @@
+https://api.github.com/repos/tediousjs/tedious
+https://api.github.com/repos/denisenkom/go-mssqldb
+https://api.github.com/repos/mkleehammer/pyodbc
+https://api.github.com/repos/pymssql/pymssql
+https://api.github.com/repos/Microsoft/msphpsql
+https://api.github.com/repos/rails-sqlserver/tiny_tds
+https://api.github.com/repos/Microsoft/mssql-jdbc
+https://api.github.com/repos/rails-sqlserver/activerecord-sqlserver-adapter
+https://api.github.com/repos/michiya/django-pyodbc-azure
+https://api.github.com/repos/aaugustin/django-pymssql
+https://api.github.com/repos/FreeTDS/freetds
+https://api.github.com/repos/radsectors/sqlshim
+https://api.github.com/repos/Azure/node-sqlserver
+https://api.github.com/repos/TimelordUK/node-sqlserver-v8
+https://api.github.com/repos/patriksimek/node-mssql
+https://hub.docker.com/v2/repositories/microsoft/mssql-server-linux/
