@@ -19,12 +19,12 @@ import validators
 import pymssql
 
 # Global Configuration
-DATABASE_SERVER = '10.120.212.174'
+DATABASE_SERVER = ''
 DATABASE_NAME = 'OS_tracker'
 SOURCES_FILE_PATH = './api_urls.res'
 DATABASE_TABLE = 'api_repository'
-DATABASE_USER = 'sa'
-DATABASE_PASSWORD = 'Luis9000'
+DATABASE_USER = ''
+DATABASE_PASSWORD = ''
 
 # Helper data structures
 ROWS = []
